@@ -1,4 +1,4 @@
-# Make VS Code a Finder option for any text file
+## VS Code to open any text file
 
 ![Screenshot](./screenshot.png)
 
