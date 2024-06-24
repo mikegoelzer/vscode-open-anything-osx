@@ -1,6 +1,6 @@
-## VS Code to open any text file
+# VS Code to open any text file
 
-![Screenshot](./screenshot.png)
+<img src="./screenshot.png" width="50%">
 
 This script helps modify the `Info.plist` file located in `/Applications/Visual Studio Code.app/Contents/` so that VS Code will be an option in Finder for any text file type.
 
